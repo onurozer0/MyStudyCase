@@ -1,1 +1,1 @@
-# Migrationdan sonra sisteme kayıt edilen ilk hesap admin yetkisine sahip olacaktır.
+# Migrationdan sonra sisteme kayıt edilen ilk hesap admin rolüne sahip olacaktır.
